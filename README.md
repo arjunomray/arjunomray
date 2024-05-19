@@ -9,5 +9,5 @@ Currently a CS student
 
 ---
 ## Trying to learn
-* Rust
-* Pygame
+* Go Lang
+* Machine Learning
