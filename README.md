@@ -1,13 +1,14 @@
 # HELLO THERE
 *Arjun Here*
 
-Currently a CS student
-## Stack
+a CS student
+## Working with
+
 * Python
 * Django
 * FastAPI
+* React
+* PostgreSQL
 
 ---
-## Trying to learn
-* Go Lang
-* Machine Learning
+
