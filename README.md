@@ -1,14 +1,7 @@
-# HELLO THERE
+# Hi
 *Arjun Here*
 
-a CS student
-## Working with
-
-* Python
-* Django
-* FastAPI
-* React
-* PostgreSQL
+Trying to make cool stuff
 
 ---
 
